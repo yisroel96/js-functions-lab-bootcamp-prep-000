@@ -7,4 +7,3 @@ function happyHolidays() {
 
 
 
-//  expect(happyHolidays()).toEqual('Happy holidays!')
